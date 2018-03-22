@@ -50,7 +50,7 @@ describe("SMTP Test server", () => {
                         text: "1",
                         to: "to@me.de",
                     },
-                ).catch(console.error), 5);
+                ).catch(console.error), 1);
 
             setTimeout(() =>
                 sendMail(server.config, {
