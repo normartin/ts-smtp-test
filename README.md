@@ -67,3 +67,6 @@ it("can wait for mails", async () => {
     expect(messages[1].textContent).to.contain("2");
 });
 ```
+
+## Previous versions ##
+Source: https://bitbucket.org/martinmo/ts-tools
