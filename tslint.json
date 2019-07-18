@@ -11,7 +11,8 @@
     ],
     "no-unused-expression": false,
     "no-unused-expression-chai": true,
-    "max-line-length": [true, 160]
+    "max-line-length": [true, 160],
+    "no-console": [true, "log", "info", "debug"]
   },
   "rulesDirectory": [
     "tslint-no-unused-expression-chai"
