@@ -29,7 +29,7 @@ export class Mail {
         }
     }
 
-    public get attachments(): Array<{ content: Buffer, filename: string }> {
+    public get attachments(): { content: Buffer, filename: string }[] {
         return this.mail.attachments.map((a) => {
             return {
                 content: a.content,
