@@ -1,6 +1,6 @@
 # ts-smtp-test #
 
-[![Build Status](https://travis-ci.org/normartin/ts-smtp-test.svg?branch=master)](https://travis-ci.org/normartin/ts-smtp-test)
+[![Build status](https://github.com/normartin/ts-smtp-test/workflows/CI_build/badge.svg)](https://github.com/normartin/ts-smtp-test/actions)
 [![Coverage Status](https://coveralls.io/repos/github/normartin/ts-smtp-test/badge.svg?branch=master)](https://coveralls.io/github/normartin/ts-smtp-test?branch=master)
 [![Dependencies](https://david-dm.org/normartin/ts-smtp-test.svg)](https://david-dm.org/normartin/ts-smtp-test)
 [![NPM](https://img.shields.io/npm/v/ts-smtp-test.svg?color=#555)](https://www.npmjs.com/package/ts-smtp-test)
